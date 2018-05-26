@@ -1,8 +1,10 @@
+<!--
 <p align="center">
   <img src="https://cdn.rawgit.com/alexdevero/express-react-webapp-boilerplate/master/docs/images/express-react-webapp-boilerplate.png" width="135" align="center">
   <br>
   <br>
 </p>
+-->
 
 <p align="center">
   <a href="https://david-dm.org/alexdevero/express-react-webapp-boilerplate"><img alt="Dependency Status" src="https://david-dm.org/alexdevero/express-react-webapp-boilerplate.svg?style=flat"></a>
