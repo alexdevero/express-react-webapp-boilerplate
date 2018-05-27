@@ -29,10 +29,10 @@ module.exports = {
     ]
   },
   devServer: {
-    port: 3000,
+    port: 1337,
     open: true,
     proxy: {
-      '/api': 'http://localhost:8080'
+      '/api': 'http://localhost:1338'
     }
   },
   plugins: [
